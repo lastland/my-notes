@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 主页
+title: 梦里醉逍遥的笔记
 tagline: 
 ---
 {% include JB/setup %}
