@@ -4,6 +4,9 @@ permalink: /:categories/:year/:month/:day/:title
 
 markdown: kramdown
 
+kramdown:
+  auto_ids: true
+
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
