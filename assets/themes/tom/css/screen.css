@@ -51,6 +51,11 @@ table {
   font: 100%;
 }
 
+blockquote {
+  padding: 0px 20px;
+  border-left: 4px solid #eeeeee;
+}
+
 /*****************************************************************************/
 /*
 /* Home
